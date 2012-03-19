@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+<ul data-role="listview" data-inset="true" data-filter="true">
+	<li><a href="${1:#}">${2:Acura}</a></li>
+	<li><a href="${3:#}">${4:Audi}</a></li>
+	<li><a href="${5:#}">${6:BMW}</a></li>
+	<li><a href="${7:#}">${8:Cadillac}</a></li>
+	<li><a href="${9:#}">${10:Ferrari}</a></li>
+</ul>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>jqmlv</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+</snippet>
