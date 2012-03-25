@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<a href="${1:#}" data-role="button" data-icon="${2:star}" data-mini="${3:false}" data-inline="${4:false}">${5:Star button}</a>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>jqmbt</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+	<description>JQueryMobile Button</description>
+</snippet>

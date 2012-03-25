@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+<div data-role="navbar">
+	<ul>
+		<li><a href="#" data-icon="grid" class="ui-btn-active">${1:Summary}</a></li>
+		<li><a href="#" data-icon="star">${2:Favs}</a></li>
+		<li><a href="#" data-icon="gear">${3:Setup}</a></li>
+	</ul>
+</div><!-- /navbar -->
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>jqmnavbar</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+	<description>JQueryMobile Navigation Bar</description>
+</snippet>

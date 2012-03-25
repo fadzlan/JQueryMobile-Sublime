@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+<form>
+   <label for="${3:slider-0}">${1:Input slider:}</label>
+   <input type="range" name="${2:slider}" id="${3:slider-0}" value="${4:25}" min="${5:0}" max="${6:100}"  />
+</form>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>jqmsl</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+	<description>JQueryMobile Slider</description>
+</snippet>

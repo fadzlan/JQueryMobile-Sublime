@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+<div data-role="footer" data-id="${1:dataId}" data-position="fixed">	
+	${2:<h4>My Footer</h4>}		
+</div><!-- /footer -->
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>jqmfooter</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+	<description>JQueryMobile Footer</description>
+</snippet>
