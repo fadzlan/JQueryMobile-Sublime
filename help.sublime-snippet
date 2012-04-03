@@ -1,0 +1,23 @@
+<snippet>
+	<content><![CDATA[
+
+jqmtemp 		jQuery Mobile template
+jqmpage 		Page
+jqmdialog 		Dialog
+jqmnavbar 		Navigation bar
+jqmfooter 		Footer
+jqmlv 			ListView
+jqmsl 			Slider
+jqmbt 			Button
+jqmbtgrp 		Button group
+jqmamp 			Anchor(link) - Multipage
+jqmana 			Anchor(link) - No Ajax
+jqmaback 		Anchor(link) - Back
+jqmdt 			Data transition attribute
+jqmdr 			Data rel attribute
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>jqm_</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
